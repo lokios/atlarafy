@@ -561,6 +561,58 @@ blockquote {border-left: 3px solid @primaryColor; }
 }
 }
 
+#features16-b {
+.mbr-section-title {
+  font-weight: 700;
+  letter-spacing: .5vw;
+  text-transform: uppercase;
+}
+.mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+}
+
+#shop1-d {
+.galleryItem h4:hover {
+  color: #f39c12;
+}
+.mbr-gallery-filter ul li.active {
+  color: #f39c12;
+}
+.mbr-gallery-filter ul li:hover {
+  color: #f39c12;
+}
+.mbr-gallery-filter ul li:before {
+  background: #f39c12;
+}
+.min-toggle:hover, .max-toggle:hover {
+  background-color: #f39c12;
+}
+.shop-title {
+  font-family: Arvo;
+}
+.categories-titles .mbr-gallery-filter ul li {
+  font-family: Arvo;
+}
+.max-input {
+  font-family: Arvo;
+}
+.min-input {
+  font-family: Arvo;
+}
+.item-title {
+  font-family: Arvo;
+}
+.card-description {
+  font-family: Open Sans;
+}
+.shop-item-price {
+  font-family: Montserrat;
+}
+}
+
 #testimonials1-8 {
 .card-block p {
   font-size: 15px;
@@ -574,4 +626,7 @@ blockquote {border-left: 3px solid @primaryColor; }
 }
 
 #footer8-a {
+}
+
+#toggle1-c {
 }
