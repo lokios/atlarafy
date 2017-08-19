@@ -12,7 +12,7 @@
 @textFont: undefined;
 @isRoundedButtons: true;
 @isAnimatedOnScroll: true;
-@isScrollToTopButton: false;
+@isScrollToTopButton: true;
 // MIXINS
 
 .button-variant(@background, @color) {

@@ -18,7 +18,7 @@
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "4.1.7",
